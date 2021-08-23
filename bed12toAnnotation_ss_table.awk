@@ -1,7 +1,7 @@
 # ===============================================================
-# awk script to extract intron/5UTR/3UTR/CDS from bed12 annotation
+# awk script to extract intron/5UTR/3UTR/CDS/ss_table from bed12 annotation
 # Author: Xianjun Dong
-# modified Rei Yoshimoto 2021/04/15
+# modified by Rei Yoshimoto 2021/04/15
 # Date: 29 Jan 2016
 # the input file is a bed12 file, which can be converted from GTF using gtf2bed
 # the output file is a bed12 file for the required part of gene structure (cds, intron, 3utr, 5utr)
